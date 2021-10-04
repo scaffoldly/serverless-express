@@ -2,7 +2,7 @@ name: CICD
 
 on:
   push:
-    branches: [ mainline ]
+    branches: [ '@scaffoldly/serverless-express' ]
   pull_request:
 
 jobs:
@@ -33,7 +33,7 @@ jobs:
       run: npm run lint
 
     - name: Release
-      if: github.event_name == 'push' && github.ref == 'refs/heads/mainline' && matrix.node-version == '12.x'
+      if: github.event_name == 'push' && github.ref == 'refs/heads/@scaffoldly/serverless-express' && matrix.node-version == '12.x'
       run: npm run release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
