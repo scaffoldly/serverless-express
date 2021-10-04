@@ -1,3 +1,10 @@
+## [4.4.2](https://github.com/scaffoldly/serverless-express/compare/v4.4.1...v4.4.2) (2021-10-04)
+
+
+### Bug Fixes
+
+* lowercase headers ([ecc371a](https://github.com/scaffoldly/serverless-express/commit/ecc371a258280b0bab345c23318df708bb7cf41b))
+
 ## [4.4.1](https://github.com/scaffoldly/serverless-express/compare/v4.4.0...v4.4.1) (2021-10-04)
 
 
