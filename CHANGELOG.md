@@ -1,3 +1,10 @@
+## [4.4.1](https://github.com/scaffoldly/serverless-express/compare/v4.4.0...v4.4.1) (2021-10-04)
+
+
+### Bug Fixes
+
+* public releases ([6c96fab](https://github.com/scaffoldly/serverless-express/commit/6c96fabef0a428d3d0972dc65982c4b30641093c))
+
 # [4.4.0](https://github.com/scaffoldly/serverless-express/compare/v4.3.11...v4.4.0) (2021-10-04)
 
 
