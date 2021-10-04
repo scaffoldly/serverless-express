@@ -1,6 +1,6 @@
 module.exports = {
   branches: [
-    'mainline'
+    '@scaffoldly/serverless-express'
   ],
   plugins: [
     [
