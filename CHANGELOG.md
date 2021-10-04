@@ -1,3 +1,16 @@
+# [4.4.0](https://github.com/scaffoldly/serverless-express/compare/v4.3.11...v4.4.0) (2021-10-04)
+
+
+### Features
+
+* scaffoldly namespace ([c456df4](https://github.com/scaffoldly/serverless-express/commit/c456df41c30dbdaad6d48a9d65ad38a652d60f94))
+* sns and dynamodb event handlers ([3a17cff](https://github.com/scaffoldly/serverless-express/commit/3a17cff0b905ff9185ba1753e80b785950246c7e))
+* unit tests for sns and dynamodb ([881e453](https://github.com/scaffoldly/serverless-express/commit/881e45309a37d4d2a0388d2c0e28566c4a9f646e))
+* update readme ([0d34a9c](https://github.com/scaffoldly/serverless-express/commit/0d34a9cecd7b259c1cc634d0e55fd0fbeb356c06))
+* update release.config.js ([c83995a](https://github.com/scaffoldly/serverless-express/commit/c83995a0e18260daea2601fa145ae8ff1605c42b))
+* update tests ([2b96348](https://github.com/scaffoldly/serverless-express/commit/2b96348a3bbc5043782c32aa24aed53be52e5fa4))
+* workflow_dispatch ([c3809b9](https://github.com/scaffoldly/serverless-express/commit/c3809b9b41357e2f6c9c9188209880cfbe6418ad))
+
 ## [4.3.11](https://github.com/vendia/serverless-express/compare/v4.3.10...v4.3.11) (2021-08-31)
 
 
