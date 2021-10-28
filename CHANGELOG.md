@@ -1,3 +1,28 @@
+# [4.6.0](https://github.com/scaffoldly/serverless-express/compare/v4.5.2...v4.6.0) (2021-10-28)
+
+
+### Bug Fixes
+
+* lowercase headers ([ecc371a](https://github.com/scaffoldly/serverless-express/commit/ecc371a258280b0bab345c23318df708bb7cf41b))
+* missed comment update ([104e537](https://github.com/scaffoldly/serverless-express/commit/104e5377b3c0534837766e6451601b05309a31b6))
+* public releases ([6c96fab](https://github.com/scaffoldly/serverless-express/commit/6c96fabef0a428d3d0972dc65982c4b30641093c))
+* remove accidental files added ([bad61c8](https://github.com/scaffoldly/serverless-express/commit/bad61c8fcefb8007e1b0fb36f26893d8caaa2976))
+* revert package.json change ([b5da607](https://github.com/scaffoldly/serverless-express/commit/b5da6070b8dd2fb674c1f7035dd7edfef1dc83a2))
+* update package lock ([283904e](https://github.com/scaffoldly/serverless-express/commit/283904eb0b653b17f57be55e010f4a24457d8360))
+
+
+### Features
+
+* eventbridge events ([da4455d](https://github.com/scaffoldly/serverless-express/commit/da4455d4503cf88fb9cf4832f09fd516e6152323))
+* export event sources ([0c94f50](https://github.com/scaffoldly/serverless-express/commit/0c94f50cfdede56758b998d7355873889ae88769))
+* scaffoldly namespace ([c456df4](https://github.com/scaffoldly/serverless-express/commit/c456df41c30dbdaad6d48a9d65ad38a652d60f94))
+* sns and dynamodb event handlers ([3a17cff](https://github.com/scaffoldly/serverless-express/commit/3a17cff0b905ff9185ba1753e80b785950246c7e))
+* unit tests for sns and dynamodb ([881e453](https://github.com/scaffoldly/serverless-express/commit/881e45309a37d4d2a0388d2c0e28566c4a9f646e))
+* update readme ([0d34a9c](https://github.com/scaffoldly/serverless-express/commit/0d34a9cecd7b259c1cc634d0e55fd0fbeb356c06))
+* update release.config.js ([c83995a](https://github.com/scaffoldly/serverless-express/commit/c83995a0e18260daea2601fa145ae8ff1605c42b))
+* update tests ([2b96348](https://github.com/scaffoldly/serverless-express/commit/2b96348a3bbc5043782c32aa24aed53be52e5fa4))
+* workflow_dispatch ([c3809b9](https://github.com/scaffoldly/serverless-express/commit/c3809b9b41357e2f6c9c9188209880cfbe6418ad))
+
 ## [4.4.2](https://github.com/scaffoldly/serverless-express/compare/v4.4.1...v4.4.2) (2021-10-04)
 
 
